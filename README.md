@@ -29,4 +29,4 @@
 
 
  ![PROFILE_DETAILS](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan7991&theme=2077)  ![TOP_LANGUAGES_BY_REPO](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjan7991&theme=2077)  ![TOP_LANGUAGES_BY_COMMIT](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjan7991&theme=2077) 
- ![STATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjan7991&theme=2077)  ![gunjan7991](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjan7991&theme=2077) 
+ ![STATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunjan7991&theme=2077)  ![gunjan7991](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gunjan7991&theme=2077&utcOffset=-6) 
