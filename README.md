@@ -1,68 +1,76 @@
 <div align="center">
   <h1>👋 Hi, I’m Gunjan Basnet</h1>
-  <h3>A Passionate Full-Stack Developer from Keller, Texas</h3>
+  <h3>A Passionate Full-Stack Developer & Entrepreneur from Keller, Texas</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=gunjan7991&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 </div>
 
+## 👋 About Me
+
+I’m Gunjan Basnet—a software developer and gas station owner in Keller, Texas. I build automation and integration solutions for POS systems, from parsing XML transactions to implementing loyalty servers (Gilbarco Passport protocol). My toolkit spans backend APIs, DevOps pipelines, and computer-vision projects on Raspberry Pi.
+
+---
+
 ## 🔭 Current Project
 
-- **[fast_api_prac](https://github.com/Gunjan7991/fast_api_prac)**: Building robust, high-performance APIs with FastAPI.
+- **[fast_api_prac](https://github.com/Gunjan7991/fast_api_prac)**: Designing high-performance, secure APIs with FastAPI and SQLModel.
 
 ## 🌱 Currently Learning
 
-- FastAPI advanced features
-- Microservices architecture
+- Advanced FastAPI patterns
+- Microservices architecture and service mesh
 - API security best practices (APSec)
+
+---
+
+## 🛠 Key Skills & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/> 
+</p>
+
+---
+
+## 🚀 Projects & Initiatives
+
+- **mudflap_calculator**: Python package to process and summarize daily fuel transaction CSVs, with robust validation and directory management.
+- **Custom Loyalty Server**: Implemented Gilbarco Passport loyalty interface (v1.2) via Python TCP server.
+- **POS XML Automation**: Watchdog-based pipelines to ingest and transform incoming XML files into PostgreSQL.
+
+---
 
 ## 👯 Looking to Collaborate
 
-- Full-stack applications—feel free to reach out if you have an idea or project!
+Have a full-stack idea or need help automating operations? Let’s connect!
 
-## 👨‍💻 All My Projects
-
-- Browse them on [my GitHub](https://github.com/Gunjan7991)
+---
 
 ## 💬 Ask Me About
 
-- Python, Java, RESTful APIs, SQL, Docker, and more
+Python, Java, FastAPI, SQL, Docker, Kafka, DevOps, Computer Vision, Retail Automation
+
+---
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [gunjanbasnet@proton.me](mailto:gunjanbasnet@proton.me)
-
-## ⚡ Fun Fact
-
-> I think I’m pretty funny! 😄
+- 📧 [gunjanbasnet@proton.me](mailto:gunjanbasnet@proton.me)
 
 ---
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/gunjan-basnet" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
-  <a href="https://www.hackerrank.com/igunxan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> </a>
-  <a href="https://www.leetcode.com/gb0241" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.css3.info/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/gunjan-basnet" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
+  <a href="https://www.hackerrank.com/igunxan" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> </a>
+  <a href="https://www.leetcode.com/gb0241" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /> </a>
 </p>
 
 ---
